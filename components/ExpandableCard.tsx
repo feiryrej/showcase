@@ -328,7 +328,7 @@ const cards = [
       return (
         <p>
           I created a K/DA music player. K/DA is a virtual K-pop girl group made up of four League of Legends characters: 
-          Ahri, Akali, Evelynn, and Kai'Sa. The music player lets fans listen to their songs and enjoy the virtual band's music.
+          Ahri, Akali, Evelynn, and Kai&apos;Sa. The music player lets fans listen to their songs and enjoy the virtual band&apos;s music.
         </p>
       );
     },
