@@ -267,8 +267,8 @@ const cards = [
     content: () => {
       return (
         <p>
-          <b>My girlfriend's favorite character.</b> <br />
-          Tartaglia, also known by his codename "Childe," is a playable Hydro character in Genshin Impact.
+          <b>My girlfriend&apos;s favorite character.</b> <br />
+          Tartaglia, also known by his codename &quot;Childe,&quot; is a playable Hydro character in Genshin Impact.
           He is the Eleventh of the Eleven Fatui Harbingers. Wherever he goes, danger follows, 
           and Childe is always eager for a challenge, making him extremely dangerous despite being the youngest member.
         </p>
